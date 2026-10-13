@@ -336,7 +336,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "40D441014F200DF4BC779F34"
+               BlueprintIdentifier = "B2EABFEC645A3969B0B548ED"
                BuildableName = "LibreLoopPlugin.loopplugin"
                BlueprintName = "LibreLoopPlugin"
                ReferencedContainer = "container:LibreLoop/LibreLoop.xcodeproj">
