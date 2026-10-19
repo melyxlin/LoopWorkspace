@@ -3,10 +3,10 @@
 	url = https://github.com/melyxlin/Loop.git
 [submodule "LoopKit"]
 	path = LoopKit
-	url = https://github.com/LoopKit/LoopKit.git
+	url = https://github.com/melyxlin/LoopKit.git
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
-	url = https://github.com/LoopKit/CGMBLEKit.git
+	url = https://github.com/melyxlin/CGMBLEKit.git
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
 	url = https://github.com/LoopKit/dexcom-share-client-swift.git
@@ -18,10 +18,10 @@
 	url = https://github.com/LoopKit/NightscoutService.git
 [submodule "Minizip"]
 	path = Minizip
-	url = https://github.com/LoopKit/Minizip.git
+	url = https://github.com/melyxlin/Minizip.git
 [submodule "TrueTime.swift"]
 	path = TrueTime.swift
-	url = https://github.com/LoopKit/TrueTime.swift.git
+	url = https://github.com/melyxlin/TrueTime.swift.git
 [submodule "LoopOnboarding"]
 	path = LoopOnboarding
 	url = https://github.com/LoopKit/LoopOnboarding.git
@@ -48,23 +48,23 @@
 	url = https://github.com/LoopKit/MinimedKit.git
 [submodule "MixpanelService"]
 	path = MixpanelService
-	url = https://github.com/LoopKit/MixpanelService
+	url = https://github.com/melyxlin/MixpanelService.git
 [submodule "LibreTransmitter"]
 	path = LibreTransmitter
 	url = https://github.com/LoopKit/LibreTransmitter.git
 [submodule "LibreLoop"]
 	path = LibreLoop
-	url = https://github.com/LoopKit/LibreLoop.git
+	url = https://github.com/melyxlin/LibreLoop.git
 [submodule "LoopAlgorithm"]
 	path = LoopAlgorithm
-	url = https://github.com/LoopKit/LoopAlgorithm.git
+	url = https://github.com/melyxlin/LoopAlgorithm.git
 [submodule "OmnipodKit"]
 	path = OmnipodKit
 	url = https://github.com/loopandlearn/OmnipodKit.git
 	branch = next-dev
 [submodule "EversenseKit"]
 	path = EversenseKit
-	url = https://github.com/LoopKit/EversenseKit.git
+	url = https://github.com/melyxlin/EversenseKit.git
 	branch = loop-next-dev
 [submodule "MedtrumKit"]
 	path = MedtrumKit
