@@ -144,4 +144,7 @@
    <FileRef
       location = "group:LoopOnboarding/LoopOnboarding.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:GlookoService/GlookoService.xcodeproj">
+   </FileRef>
 </Workspace>
